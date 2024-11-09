@@ -20,22 +20,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+JF CREATOR: Transformando Futebol em Arte com o Poder da IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Usando a IA para criar conteúdo e gerar entretenimento nas redes sociais para os amantes de futebol. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Ia generativa Chatgpt para roteirização e criação de imagem
+Ia generativa Eleven labs para criar a narração
+Microsoft clipchamp para criar o video com legenda
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o chatgpt criar um roteiro sobre a final da copa do mundo de 1958 da seleção Brasileira, através desse roteiro pedi para que ele escrevesse uma narração do gol do Pelé e criasse uma imagem dos jogadores levantando o Pelé.
+Coloquei o texto no eleven labs e pedi para que criasse a narração.
+Adicionei a narração e imagem e criei um video.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+
+https://github.com/user-attachments/assets/a50830dc-f0c3-4cdd-8e3a-55ab1db513d8
+
+
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Adorei essa experiência, serviu para aprender e criar meu primeiro projeto através de ia, quero continuar estudando e aprendendo para aperfeiçoar minhas artes.
 ```
 
 ### Exemplos e Insigths
